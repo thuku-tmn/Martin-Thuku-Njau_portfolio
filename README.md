@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [overview](#overview)
+- [Overview](#overview)
 - [Prerequisites](#prerequisites)
 - [Screenshots](#screenshots)
 - [Formulas](#formulas)
