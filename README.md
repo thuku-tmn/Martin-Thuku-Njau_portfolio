@@ -17,8 +17,5 @@ To use this financial dashboard, you'll need the following:
 - Basic knowledge of Excel formulas
 - Your financial data (income, expenses, savings, and investments)
 
-## Getting Started
+## Screenshots
 
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/thuku-tmn/financial-dashboard.git
