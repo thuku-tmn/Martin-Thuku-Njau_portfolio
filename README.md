@@ -1,6 +1,6 @@
 # Martin-Thuku-s_portfolio
 
-# Personal Financial Dashboard
+# [Personal Financial Dashboard](https://github.com/thuku-tmn/Martin-Thuku-Njau_portfolio.git)
 
 ## Overview
 
