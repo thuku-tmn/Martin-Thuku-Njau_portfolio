@@ -5,6 +5,7 @@
 - [overview](#overview)
 - [Prerequisites](#prerequisites)
 - [Screenshots](#screenshots)
+- [Formulas](#formulas)
 
 
 ## Overview
@@ -30,3 +31,15 @@ To use this financial dashboard, you'll need the following:
 ![personal finance dashboard](https://github.com/thuku-tmn/Martin-Thuku-Njau_portfolio/assets/154747025/d5a3dad5-2181-46c0-b0cd-61b4707a45b0)
 ![personal finance dashboard 2](https://github.com/thuku-tmn/Martin-Thuku-Njau_portfolio/assets/154747025/f65f3f49-a2a9-4d50-bfb8-bcc3a16af58e)
 ![personal finance dashboard 3](https://github.com/thuku-tmn/Martin-Thuku-Njau_portfolio/assets/154747025/39790e97-3324-4dc2-850c-de48b92fc580)
+
+## Formulas
+
+Some of the formulas used on the dashboard
+
+```
+| =TEXT([@[Full Date]],"mmmm") |
+| =IFNA(INDEX(Expenses[[January]:[December]],MATCH(Transactions!$I1617,Expenses[Expenses],0),MATCH(Transactions!$B1617,Expenses[[#Headers],[January]:[December]],0)),0) |
+| =COUNTIFS([Sub-Category],[@[Sub-Category]],[Month],[Month],[Year],[Year]) |
+| =IFERROR(([@[Monthly Budgeted Amount]]-[@Withdrawn])/[@[Monthly Budgeted Amount]],"") |
+
+
