@@ -19,3 +19,6 @@ To use this financial dashboard, you'll need the following:
 
 ## Screenshots
 
+![personal finance dashboard](https://github.com/thuku-tmn/Martin-Thuku-Njau_portfolio/assets/154747025/d5a3dad5-2181-46c0-b0cd-61b4707a45b0)
+![personal finance dashboard 2](https://github.com/thuku-tmn/Martin-Thuku-Njau_portfolio/assets/154747025/f65f3f49-a2a9-4d50-bfb8-bcc3a16af58e)
+![personal finance dashboard 3](https://github.com/thuku-tmn/Martin-Thuku-Njau_portfolio/assets/154747025/39790e97-3324-4dc2-850c-de48b92fc580)
