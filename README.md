@@ -1,4 +1,12 @@
 # Personal Financial Dashboard
+
+## Table of Contents
+
+- [overview](#overview)
+- [Prerequisites](#prerequisites)
+- [Screenshots](#screenshots)
+
+
 ## Overview
 
 Welcome to my financial dashboard project! This dashboard is designed to help individuals manage and visualize their finances using Microsoft Excel. It provides insights into income, expenses, savings, and investment portfolios.
