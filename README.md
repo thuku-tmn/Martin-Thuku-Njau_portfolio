@@ -14,7 +14,7 @@ Welcome to my financial dashboard project! This dashboard is designed to help in
 To use this financial dashboard, you'll need the following:
 
 - Microsoft Excel (2016 or higher)
-- Basic knowledge of Excel formulas
+- Advanced knowledge of Excel formulas and data visualisation
 - Your financial data (income, expenses, savings, and investments)
 
 ## Screenshots
